@@ -1,0 +1,15 @@
+{
+    "name" : "IniParser",
+    "license": "MIT",
+    "tags": [
+        "ini","files"
+    ],
+    "description": "New parser of ini files",
+    "version" : "0.0.1",
+    "releasenote": "Initial release",
+    "contributors": [
+        "MrNiz"
+    ],
+    "dependencies" : {}
+  
+} 
